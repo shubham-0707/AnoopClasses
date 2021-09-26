@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Anoop Classes Project</string>
+    <string name="anoop_classes">Anoop Classes</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="new_user_signup_now">New User? SignUp Now</string>
+    <string name="login2">Login</string>
+    <string name="welcome_back_to_anoop_classes">Welcome Back to Anoop Classes</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="icon">ICON</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="already_registered_login">Already Registered ? Login</string>
 </resources>
