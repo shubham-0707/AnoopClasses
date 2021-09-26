@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53476021967",
+    "project_id": "anoop-classes",
+    "storage_bucket": "anoop-classes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53476021967:android:585b06ba5e9d1bf1fa89ba",
+        "android_client_info": {
+          "package_name": "android.example.anoopclassesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53476021967-disqm0mp4rv9fapd6usnhlud2qbrv7q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuCf-UR6CPCnX1sr9W-FV-B9OpVIuab4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53476021967-disqm0mp4rv9fapd6usnhlud2qbrv7q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
